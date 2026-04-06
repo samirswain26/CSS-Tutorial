@@ -1,0 +1,32 @@
+/* h1 {
+    background-color: brown;
+}
+p{
+    background-color: green;
+} */
+
+.a{
+    background-color: green;
+    color: white;
+}
+#a{
+    background-color: red;
+}
+
+#div{
+    background-color: black;
+    color: white;
+}
+
+#span{
+    background-color: red;
+    color: green;
+}
+p{
+    background-color: green;
+}
+
+#div2{
+    background-color: black;
+    color: white;
+}
